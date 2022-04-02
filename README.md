@@ -4,7 +4,7 @@
 
 
 <h1 align="center">👨‍💻 ArdaDemr</h1>
-<h3 align="center">Discord bot geliştiricisi & youtuber.</h3>
+<h3 align="center">Merhaba, ben ArdaDemr 2017'den bu yana Discord Bot alanında kendimi geliştiriyorum.</h3>
 
 - Discord [V13 Altyapı](https://glitch.com/edit/#!/remix/v13altyapiardademr)
 

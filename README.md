@@ -24,3 +24,5 @@
 
 
 ![ardademr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardademr&theme=dark&show_icons=true)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tu6sjwhpzyq4guxjxns4xgv254&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
